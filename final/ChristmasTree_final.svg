@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 1920 1080">
+  <!-- Generator: Adobe Illustrator 29.1.0, SVG Export Plug-In . SVG Version: 2.1.0 Build 142)  -->
+  <defs>
+    <style>
+      .st0 {
+        fill: #15560c;
+      }
+
+      .st1 {
+        fill: #0a6020;
+      }
+
+      .st2 {
+        fill: #10560c;
+      }
+
+      .st3 {
+        fill: #205e0a;
+      }
+
+      .st4 {
+        fill: #543a0d;
+      }
+
+      .st5 {
+        fill: #0d5b16;
+      }
+
+      .st6 {
+        fill: #eacc6c;
+      }
+
+      .st7 {
+        fill: #185a0b;
+      }
+
+      .st8 {
+        fill: #1a5a0b;
+      }
+    </style>
+  </defs>
+  <g id="Tree">
+    <g>
+      <polygon class="st0" points="960.46 229 817.31 367 1103.61 367 960.46 229"/>
+      <polygon class="st8" points="960.53 273 749.96 430 1171.11 430 960.53 273"/>
+      <polygon class="st3" points="960.61 317 682.61 493 1238.61 493 960.61 317"/>
+      <polygon class="st7" points="960.61 347.5 649.61 575.5 1271.61 575.5 960.61 347.5"/>
+      <polygon class="st2" points="960.61 378 616.61 658 1304.61 658 960.61 378"/>
+      <polygon class="st5" points="960.3 448 576.61 733 1344 733 960.3 448"/>
+      <polygon class="st1" points="960 518 536.61 808 1383.39 808 960 518"/>
+    </g>
+    <rect class="st4" x="890.5" y="798" width="139" height="190"/>
+  </g>
+  <g id="Star">
+    <polygon class="st6" points="1034.95 294.65 961.35 249.57 889.21 296.94 909.34 213.02 841.99 159.05 928.03 152.26 958.55 71.53 991.59 151.25 1077.8 155.34 1012.19 211.4 1034.95 294.65"/>
+  </g>
+</svg>
